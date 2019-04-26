@@ -8,3 +8,9 @@ This is a stub. <a href='https://github.com/freecodecamp/guides/tree/master/src/
 <a href='https://github.com/freecodecamp/guides/blob/master/README.md' target='_blank' rel='nofollow'>This quick style guide will help ensure your pull request gets accepted</a>.
 
 <!-- The article goes here, in GitHub-flavored Markdown. Feel free to add YouTube videos, images, and CodePen/JSBin embeds  -->
+<p class="codepen" data-height="265" data-theme-id="0" data-default-tab="js" data-user="chronkituss" data-slug-hash="jRdmmv" style="height: 265px; box-sizing: border-box; display: flex; align-items: center; justify-content: center; border: 2px solid black; margin: 1em 0; padding: 1em;" data-pen-title="Generate Random Whole Numbers with JavaScript">
+  <span>See the Pen <a href="https://codepen.io/chronkituss/pen/jRdmmv/">
+  Generate Random Whole Numbers with JavaScript</a> by chronkituss (<a href="https://codepen.io/chronkituss">@chronkituss</a>)
+  on <a href="https://codepen.io">CodePen</a>.</span>
+</p>
+<script async src="https://static.codepen.io/assets/embed/ei.js"></script>
